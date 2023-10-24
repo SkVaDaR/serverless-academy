@@ -1,0 +1,7 @@
+{
+  "name": "serverless-academy",
+  "version": "1.0.0",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
